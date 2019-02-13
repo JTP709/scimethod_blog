@@ -1,7 +1,5 @@
 ## How an Understanding of the Scientific Method Can Make You A Better Practitioner Of Agile Software Development
 
-___
-
 Here at Gaslight, we pride ourselves on being practitioners of agile software development, which we believe provides the best methodologies and practices to develop the best software. A core methodology we practice (and preach) is test driven development (TDD), which is a style of programming that uses testing to drive software design. The cycle is relatively simple: after choosing a story to work on next, the developer will write a test case for that piece of software they’re going to create. This test will fail initially as the code it’s testing is non-existent (or doesn’t return what is expected). You’ll then write the simplest code possible to make the unit test pass, and refactor your code before moving onto the next story which will require another test and restarting this cycle. An colloquial method to phrase this cycle is: red, green, refactor.
 
 **Test Driven Development:**
